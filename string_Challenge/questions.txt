@@ -1,0 +1,65 @@
+🟢 EASY (Warm-up)
+
+Reverse a string without using slicing.
+
+Count vowels and consonants in a string.
+
+Check if a string is a palindrome.
+
+Remove all spaces from a string.
+
+Replace all vowels with *.
+
+Convert all lowercase letters to uppercase (without using .upper()).
+
+Find the length of a string without using len().
+
+Count how many digits are present in a string.
+
+Remove punctuation from a string.
+
+Find the first non-repeating character in a string.
+
+🟡 MEDIUM (Logic Building)
+
+Find the longest word in a sentence (ignore punctuation).
+
+Reverse each word in a sentence but keep word order.
+
+Check if two strings are anagrams.
+
+Count occurrences of each character in a string.
+
+Capitalize the first letter of every word.
+
+Remove duplicate characters from a string (keep order).
+
+Find all substrings of a given string.
+
+Find the number of times a substring appears in a string.
+
+Replace every letter with the next alphabet letter (z → a).
+
+Swap the case of each character (upper → lower, lower → upper).
+
+🔵 CHALLENGE (Interview-Style)
+
+Shift every letter by n positions (Caesar Cipher).
+
+Find the longest palindromic substring.
+
+Check if a string contains only digits.
+
+Compress a string (e.g. "aaabbc" → "a3b2c1").
+
+Find the word with maximum repeated characters.
+
+Remove duplicate words from a sentence.
+
+Count words ending with a vowel.
+
+Reverse characters between two vowels.
+
+Check if a string can be rearranged into a palindrome.
+
+Find the longest substring without repeating characters.
